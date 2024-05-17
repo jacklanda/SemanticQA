@@ -265,8 +265,6 @@ dependencies:
     - send2trash==1.8.2
     - sentence-transformers==2.2.2
     - sentencepiece==0.1.99
-    - setuptools==65.5.1
-    - sh==2.0.6
     - shell-gpt==1.4.3
     - shellingham==1.5.4
     - simplejson==3.19.2
