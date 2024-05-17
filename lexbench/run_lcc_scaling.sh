@@ -927,41 +927,41 @@ scaling_gemini_16_fewshot(){
 }
 
 # OpenAI Models
-#scaling_gpt35_1
-#scaling_gpt35_2
-#scaling_gpt35_2_fewshot
-#scaling_gpt4_2
-#scaling_gpt4_2_fewshot
-#scaling_gpt35_4
-#scaling_gpt35_4_fewshot
-#scaling_gpt4_4
-#scaling_gpt4_4_fewshot
-#scaling_gpt35_4
-#scaling_gpt35_8
-#scaling_gpt35_8_fewshot
-#scaling_gpt4_8_fewshot
-#scaling_gpt4_8
-#scaling_gpt35_16
-#scaling_gpt35_16_fewshot
-#scaling_gpt4_16_fewshot
-#scaling_gpt4_16
+scaling_gpt35_1
+scaling_gpt35_2
+scaling_gpt35_2_fewshot
+scaling_gpt4_2
+scaling_gpt4_2_fewshot
+scaling_gpt35_4
+scaling_gpt35_4_fewshot
+scaling_gpt4_4
+scaling_gpt4_4_fewshot
+scaling_gpt35_4
+scaling_gpt35_8
+scaling_gpt35_8_fewshot
+scaling_gpt4_8_fewshot
+scaling_gpt4_8
+scaling_gpt35_16
+scaling_gpt35_16_fewshot
+scaling_gpt4_16_fewshot
+scaling_gpt4_16
 
 # Anthropic Models
-#scaling_claude3_2
-#scaling_claude3_2_fewshot
-#scaling_claude3_4
-#scaling_claude3_4_fewshot
-#scaling_claude3_8
-#scaling_claude3_8_fewshot
-#scaling_claude3_16
-#scaling_claude3_16_fewshot
+scaling_claude3_2
+scaling_claude3_2_fewshot
+scaling_claude3_4
+scaling_claude3_4_fewshot
+scaling_claude3_8
+scaling_claude3_8_fewshot
+scaling_claude3_16
+scaling_claude3_16_fewshot
 
 # Google Models
-#scaling_gemini_2
-#scaling_gemini_2_fewshot
-#scaling_gemini_4
-#scaling_gemini_4_fewshot
-#scaling_gemini_8
-#scaling_gemini_8_fewshot
-#scaling_gemini_16
-#scaling_gemini_16_fewshot
+scaling_gemini_2
+scaling_gemini_2_fewshot
+scaling_gemini_4
+scaling_gemini_4_fewshot
+scaling_gemini_8
+scaling_gemini_8_fewshot
+scaling_gemini_16
+scaling_gemini_16_fewshot
