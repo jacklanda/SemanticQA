@@ -69,8 +69,6 @@ dependencies:
     - docstring-parser==0.15
     - docstring-to-markdown==0.13
     - emoji==2.10.1
-    - en-core-web-lg==3.7.1
-    - en-core-web-trf==3.7.3
     - entrypoints==0.4
     - et-xmlfile==1.1.0
     - etelemetry==0.3.1
