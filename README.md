@@ -3,6 +3,19 @@
 
 The official repository of the research paper ``Revisiting a Pain in the Neck: Semantic Phrase Processing Benchmark for Language Models''.
 
+## Prepare Environments
+```bash
+conda env create -f environment.yml
+
+cd lexbench
+pip install -r requirements.txt
+```
+
+## Prepare Data
+```bash
+unzip resources/dataset.zip -d lexbench/
+```
+
 ## Running Evaluation on Specific Task 
 For example, the command for running idiom interpretation with `Claude-3-opus` is shown below.
 
