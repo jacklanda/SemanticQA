@@ -1,0 +1,11 @@
+Assume that you are a linguistic who research in the lexical phenomenon of noun compounds.
+
+You will be given a context that includes only one noun compound.
+
+Your task is to extract the noun compound in the given sentece.
+
+Please make sure you read and understand these instructions carefully.
+
+Context: {{context}}
+
+Noun compound:

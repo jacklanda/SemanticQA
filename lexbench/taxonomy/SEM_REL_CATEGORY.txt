@@ -1,0 +1,19 @@
+ID	Label	Examples	Semantic Gloss
+0	Magn	heavy rain,bad accident,huge advantage,heady alcohol,thunderous applause,avid attention,enormous benefit,infinite capacity,powerful champion,violent clash	Intense, strong degree, an intensifier of semantic relation for base lexeme. Intensify the base lexeme to a high level, strengthening its semantic relation with the associated concept via the collocate lexeme.
+1	AntiMagn	slight accent,general account,young age,reluctant applause,poor argument,little attention,narrow gap,faint hope,cursory illustration,homely meal	Slight and weak degree, a de-intensifier, Weaken meaning intensity, diminishing the semantic relationship between the base lexeme and its associated concept.
+2	Ver	successful attempt,steady improvement,clear message,rightful owner,fair question,safe return,stable situation,speak fluently,plain truth,accurate source	Lat. verus, real, genuine, As it should be, Meet intended requirements.
+3	AntiVer	groundless accusation,unprovoked aggression,baseless allegation,misguided approach,vain attempt,mistaken belief,unhealthy competition,harsh conditions,inadequate coverage,criticize unjustly	Non-genuine, Characterize something as non-genuine, not authentic, not in its intended or proper state, and not meeting the required standards or expectations.
+4	IncepPredPlus	blood pressure rises,concern grows,crisis deepens,influence increases,outrage grows,prices soar,gather strength,wind picks up,violence spirales,toll climbs	Start to increase., Denote the initiation of a process or action that leads to an increase or enhancement of something.
+5	FinFunc0	ban expires,clouds clear,flames go out,flood recedes,hope dies,marriage breaks up,negotiations collapse,power goes down,rain ceases,record tumbles	End.existence, The value means "the base word of FinFunc0 ceases to be experienced".
+6	Fact0		Lat. factum, fact. To fulfill the requirement of base word, and the argument of this function fulfills its own requirement., Fulfill the requirement of base word, do something with base word, what you are supposed to do with base word.
+7	CausFunc0		The agent does something so that the event denoted by the noun occurs, Do something so that base word begins occurring.
+8	CausFact0		To cause something to function according to its destination., Denote causing something to function according to its intended purpose or destination.
+9	CausPredMinus		Cause to decrease., Describe the act of causing a decrease or reduction in something.
+10	CausFunc1		The non-agentive participant does something such that the event denoted by the noun occurs., A person/object, different from the agent of base word, does something so that base word occurs and has effect on the agent of base word.
+11	Son		Lat. sonare: sound., The base word is usually a noun, and the value means "emit a characteristic sound".
+12	Oper1		Lat. operari: perform, do, act something., Represent a light verb linking the event's first participant (subject) with the event's name (direct object).
+13	IncepOper1		Incep is from Lat. incipere: begin. Begin to do, perform, experience, carry out base word., Signify the start of an action or event, linking the event's subject with its name using a light verb.
+14	FinOper1		Fin is from Lat. finire: cease., Terminate doing something.
+15	Real1		 Fulfill a requirement imposed by the noun or performing an action typical for the noun., To fulfill the requirement of base word, to act according to base word.
+16	Real2		Acting as expected. Something be realized as expected, Do with regard to A that which is normally expected of second participant.
+17	AntiReal2		Not acting as expected. Something not be realized as expected., The value is negation of an internal element of the argument of this function.

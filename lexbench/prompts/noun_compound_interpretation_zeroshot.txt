@@ -1,0 +1,10 @@
+Assume that you are a linguistic who research in noun compound.
+
+You will be given a noun compound.
+
+Your task is to interpret the given noun compound in the out-of-context setting.
+
+Please paraphrase the noun compound in accurate and very very concise style (3 to 10 words, 10 words at most).
+
+Noun compound: {{noun compound}}
+Short interpretation: 

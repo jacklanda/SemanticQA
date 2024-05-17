@@ -1,0 +1,11 @@
+You will be given a idiom.
+
+Your task is to interpret the given idiom.
+
+Please paraphrase the idiom in accurate and concise style (12 words at most) in ten different paraphrasing of the same meaning.
+
+Separate each paraphrasing with string "#####"
+
+idiom: {{collocation}}
+
+Ten Interpretations:

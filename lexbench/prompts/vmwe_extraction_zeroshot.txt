@@ -1,0 +1,13 @@
+Assume that you are a linguistic who research in the verbal multiword expression (vmwe).
+
+You will be given a context that includes only one verbal multiword expression.
+
+Your task is to extract the verbal multiword expression in the given sentence.
+
+Please remove article like "a" and "the".
+
+VMWE Definition: Verbal Multiword Expressions (VMWEs) are sequences of words in a language that exhibit idiosyncratic properties, such as orthographic, morphological, syntactic, or semantic irregularities, deviating from conventional grammar rules. These expressions typically consist of a verb as the head word and at least one other word with a syntactic relationship, often demonstrating non-compositionality in their meanings. While their individual components may have predictable meanings, the overall interpretation of a VMWE often cannot be inferred solely from its parts and syntax.
+
+Context: {{context}}
+
+Verbal Multiword Expression (VMWE):

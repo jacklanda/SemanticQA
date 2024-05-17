@@ -1,0 +1,17 @@
+Assume that you are a linguistic who research in the lexical phenomenon of idiomatic expression.
+
+You will be given a sentence that contains one idiom, with four choices.
+
+Your task is to tell the right option in the given text (select the right one from A, B, C, and D).
+
+Please just give the one option that you think is the right one, no need to give the reason.
+
+Please make sure you read and understand these instructions carefully.
+
+Examples: {{example}}
+
+Idiom: {{idiom}}
+
+Context: {{context}}
+
+Output (Answer only, no analysis!):

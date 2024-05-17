@@ -1,0 +1,11 @@
+Assume that you are a linguistic who research in the lexical phenomenon of idiomatic expression.
+
+You will be given a sentence that contain only one idiom.
+
+Your task is to extract the right idiom completely in the given text.
+
+Please make sure you read and understand these instructions carefully.
+
+Context: {{context}}
+
+Extracted Idiom:

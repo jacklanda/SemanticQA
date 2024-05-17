@@ -1,0 +1,11 @@
+You will be given a collocation.
+
+Your task is to interpret the given collocation.
+
+Please paraphrase the collocation in accurate and concise style (10 words at most) in ten different paraphrasing of the same meaning.
+
+Separate each paraphrasing with string "#####"
+
+Collocation: {{collocation}}
+
+Ten Interpretations:

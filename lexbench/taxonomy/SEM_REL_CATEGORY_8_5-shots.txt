@@ -1,0 +1,9 @@
+ID	Label	Examples	Semantic Gloss
+0	Magn	heavy rain,bad accident,huge advantage,heady alcohol,thunderous applause	intense, and strong degree, an intensifier of semantic relation for base lexeme. Intensify the base lexeme to a high level, strengthening its semantic relation with the associated concept via the collocate lexeme.
+1	AntiMagn	slight accent,general account,young age,reluctant applause,poor argument	slight, little intense, and weak degree, a de-intensifier, Weaken meaning intensity, diminishing the semantic relationship between the base lexeme and its associated concept.
+2	Ver	successful attempt,steady improvement,clear message,rightful owner,fair question	real, genuine, As it should be, Meet intended requirements.
+3	AntiVer	groundless accusation,unprovoked aggression,baseless allegation,misguided approach,vain attempt	non-genuine, Characterize something as non-genuine, not authentic, not in its intended or proper state, and not meeting the required standards or expectations.
+4 	Bon 	fresh bread,brilliant career,fine compliment,mint condition,valuable contribution 	positive, as expected
+5 	AntiBon 	undue advantage,naked aggression,evil atmosphere,vicious attack,improper bargain 	negative, not as expected
+6	Son	alarm clock rings,arrow zings,banknotes rustle,battle rumbles,bird chirps	sound and voice, The base word is usually a noun, and the value means "emit a characteristic sound".
+7	Oper1	perform abortion,meet accident,have ache,commit adultery,give advice	perform, do, carry out, participate, act something., Represent a light verb linking the event's first participant (subject) with the event's name (direct object).

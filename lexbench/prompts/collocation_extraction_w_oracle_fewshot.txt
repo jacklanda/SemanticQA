@@ -1,0 +1,15 @@
+Assume that you are a linguistic who is major in lexical collocation.
+
+You will be given a context.
+
+Your task is to extract the only one existing lexical collocation in the given text.
+
+Please make sure you read and understand these instructions carefully. 
+
+Semantic relation of collocation: {{relation}}
+
+Collocation examples: {{example}}
+
+Context: {{context}}
+
+Output:

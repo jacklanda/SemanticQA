@@ -1,0 +1,9 @@
+Assume that you are a linguistic who is major in lexical collocation.
+
+You will be given a context.
+
+Your task is to extract the only one existing lexical collocation in the given text.
+
+Context: {{context}}
+
+Output:

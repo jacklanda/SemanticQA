@@ -1,0 +1,11 @@
+Assume that you are a linguistic who research in the verbal multiword expression (vmwe).
+
+You will be given a context that includes only one verbal multiword expression.
+
+Your task is to extract the verbal multiword expression in the given sentence.
+
+Please remove article like "a" and "the".
+
+Context: {{context}}
+
+Verbal Multiword Expression (VMWE):

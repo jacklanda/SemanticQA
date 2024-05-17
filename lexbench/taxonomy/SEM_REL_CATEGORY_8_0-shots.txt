@@ -1,0 +1,9 @@
+Label	Semantic Gloss
+Magn	intense, and strong degree, an intensifier of semantic relation for base lexeme. Intensify the base lexeme to a high level, strengthening its semantic relation with the associated concept via the collocate lexeme.
+AntiMagn	slight, little intense, and weak degree, a de-intensifier, Weaken meaning intensity, diminishing the semantic relationship between the base lexeme and its associated concept.
+Ver	real, genuine, As it should be, Meet intended requirements.
+AntiVer	non-genuine, characterize something as non-genuine, not authentic, not in its intended or proper state, and not meeting the required standards or expectations.
+Bon 	positive, as expected
+AntiBon 	negative, not as expected
+Son	sound or voice. The base word is usually a noun, and the value means "emit a characteristic sound".
+Oper1	perform, do, carry out, participate, act something., Represent a light verb linking the event's first participant (subject) with the event's name (direct object).

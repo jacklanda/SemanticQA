@@ -1,0 +1,28 @@
+Assume that you are a linguistic who is familliar with the concepts of lexical collocation and lexical function.
+
+You will be given a context.
+
+Your task is to extract and identify a lexical collocations in the given text, under the given Semantic Relation Taxonomy (just extract the collocation and assign the most possible label from one of the labels for it, according to the semantic gloss).
+
+Note that a context can only include one lexical collocation.
+
+Please make sure you read and understand these instructions carefully. Recall that a context can only include one collocation.
+
+Semantic Relation Taxonomy:
+```txt
+{{taxonomy}}
+```
+
+Examples:
+```txt
+There is a heavy rain today. -> [Magn] (heavy rain)
+He played the piano. -> [Oper1] (play piano)
+My neighbor's dog barks loudly every morning. -> [Son] (dog bark)
+```
+
+Context:
+```txt
+{{context}}
+```
+
+Output:

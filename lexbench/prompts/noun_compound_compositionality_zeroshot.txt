@@ -1,0 +1,11 @@
+Assume that you are a linguistic who research in noun compounds.
+
+You will be given a context that includes a specific noun compound and four options.
+
+Your task is to assess the compositional degree of this noun compound in the given sentece and choose the most appropriate option.
+
+Context: {{context}}
+
+Noun compound: {{noun compound}}
+
+Output Option (Option only, no analysis):

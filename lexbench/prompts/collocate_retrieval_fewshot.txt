@@ -1,0 +1,11 @@
+Assume that you are a linguistic who research in lexical collocation and lexical function.
+
+You will be given one collocation (collocate part is masked by [MASK]) in a context.
+
+Your task is to write 10 candidates of collocate in the given text, under the given semantic relation for the collocation.
+
+Examples: {{example}}
+
+Context: {{context}}
+Semantic relation: {{relation}}
+Output:

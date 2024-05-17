@@ -1,0 +1,16 @@
+Assume that you are a linguistic who research in lexical collocation and lexical semantic relation.
+
+You will be given a context that comprises a collocation.
+
+Your task is to classify the collocations in the given text, under the given Semantic Category.
+
+You only need to assign the most possible label from one of the categories for it.
+
+Semantic Category:
+{{taxonomy}}
+
+Context: {{context}}
+
+Collocation: {{collocation}}
+
+Output (Label only):

@@ -1,0 +1,18 @@
+Assume that you are a linguistic who research in the lexical phenomenon of noun compounds.
+
+You will be given a context that includes a specific noun compound and four options A, B, C, and D.
+
+Your task is to assessing the compositional degree of this noun compound in the given sentece and choose the most appropriate option.
+
+Please make sure you read and understand these instructions carefully.
+
+Examples: {{example}}
+
+Noun compound: {{noun compound}}
+
+Context: {{context}}
+
+Output (Option only, no analysis):
+
+
+argmax(*logits)

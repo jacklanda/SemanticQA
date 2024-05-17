@@ -1,0 +1,11 @@
+Assume that you are a linguistic who research in the lexical phenomenon of idiomatic expression.
+
+You will be given a sentence that contains only one idiom.
+
+Your task is to paraphrase the idiom in the given text according to the original meaning of this idiom. Please rephrase the idiom in accurate and concise style, and only need to output the paraphrase of idiom without context.
+
+Examples: {{example}}
+
+Idiom: {{idiom}}
+Context: {{context}}
+Output:

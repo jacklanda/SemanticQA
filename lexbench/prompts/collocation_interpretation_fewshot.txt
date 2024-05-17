@@ -1,0 +1,10 @@
+You will be given a collocation and a sentence.
+
+Your task is to interpret the given collocation in the sentence.
+
+Please paraphrase the collocation in accurate and concise style (6 words at most).
+
+Examples: {{example}}
+Collocation: {{collocation}}
+Context: {{context}}
+Interpretation:

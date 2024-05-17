@@ -1,0 +1,11 @@
+Assume that you are a linguistic who research in idiomatic expression.
+
+You will be given a sentence that contains one idiom, with four choices.
+
+Your task is to tell the right option in the given text (select from A, B, C, or D).
+
+Idiom: {{idiom}}
+
+Context: {{context}}
+
+Output:
