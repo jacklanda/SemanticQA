@@ -2,8 +2,6 @@
 
 The repository of the research project ``Revisiting a Pain in the Neck: A Semantic Reasoning Benchmark for Language Models''.
 
-<img src="assets/overall-performance.png" alt="drawing" width="700"/>
-
 ## Supported Tasks
 
 SemanticQA supports 19 tasks across four phrase types, including 6 sequential (multi-step) tasks.
