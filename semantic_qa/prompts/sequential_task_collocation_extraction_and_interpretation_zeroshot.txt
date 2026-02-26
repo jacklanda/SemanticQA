@@ -1,0 +1,17 @@
+Assume that you are a linguist who specializes in lexical collocation.
+
+You will be given a context.
+
+Your task is to:
+1. Extract the single lexical collocation present in the given text.
+2. Interpret the extracted collocation within the sentence (in 6 words or fewer).
+
+Please output your answer in the following format:
+Extracted Collocation:
+Paraphrase:
+
+Answer only, no analysis.
+
+Context: {{context}}
+
+Output:

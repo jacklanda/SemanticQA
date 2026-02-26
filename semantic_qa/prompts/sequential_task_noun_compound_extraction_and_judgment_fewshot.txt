@@ -1,0 +1,19 @@
+Assume that you are a linguist who researches the lexical phenomenon of noun compounds.
+
+You will be given a context that contains a specific noun compound, along with four options.
+
+Your tasks are to:
+1. Extract the noun compound from the given sentence.
+2. Assess its compositional degree and select the most appropriate option (A, B, C, or D).
+
+Please output your answer in the following format:
+Extracted Noun Compound: 
+Selected Option: 
+
+Answer only, no analysis!
+
+Examples: {{example}}
+
+Context: {{context}}
+
+Output:

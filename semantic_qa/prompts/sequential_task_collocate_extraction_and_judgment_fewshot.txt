@@ -1,0 +1,22 @@
+Assume that you are a linguist who researches lexical collocations and lexical semantic relations.
+
+You will be given a sentence that contains only one lexical collocation.
+
+Your task is to:
+1. Extract the correct lexical collocation completely from the given text.
+2. Classify the extracted collocation into the most appropriate semantic category from the provided taxonomy.
+
+Please output your answer in the following format:
+Extracted Collocation: 
+Category: 
+
+Answer only, no analysis!
+
+Examples: {{example}}
+
+Semantic Category:
+{{taxonomy}}
+
+Context: {{context}}
+
+Output:

@@ -1,0 +1,19 @@
+Assume that you are a linguist who researches the lexical phenomenon of idiomatic expressions.
+
+You will be given a sentence that contains only one idiom.
+
+Your task is to:
+1. Extract the correct idiom completely from the given text.
+2. Interpret the meaning of that idiom in the given context (in 6 words or fewer).
+
+Please output your answer in the following format:
+Extracted Idiom:
+Paraphrase:
+
+Answer only, no analysis!
+
+Examples: {{example}} 
+
+Context: {{context}}
+
+Output:

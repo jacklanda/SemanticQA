@@ -1,0 +1,18 @@
+Assume that you are a linguist researching the lexical phenomenon of noun compounds.  
+You will be given a context containing a single noun compound.
+
+Your tasks are:  
+1. Extract the noun compound from the given context.  
+2. Interpret its meaning in the given context (in 6 words or fewer).
+
+Please output your answer in the following format:  
+Extracted Noun Compound:
+Paraphrase:
+
+Answer only, no analysis!  
+
+Examples: {{example}}
+
+Context: {{context}}  
+
+Output:
