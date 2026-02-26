@@ -1,0 +1,19 @@
+Assume that you are a linguist who researches idiomatic expression processing.
+
+You will be given a sentence that contains one idiom with four choices.
+
+Your task is to:
+1. First, extract the idiom from the sentence.
+2. Then, select the correct option (A, B, C, or D).
+
+Answer only, no analysis!
+
+Please output your answer in the following format:
+Extracted Idiom: 
+Option:
+
+Examples: {{example}} 
+
+Context: {{context}}
+
+Output:
