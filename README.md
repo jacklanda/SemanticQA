@@ -1,4 +1,4 @@
-# LexBench
+# SemanticQA
 
 The repository of the research project ``Revisiting a Pain in the Neck: A Semantic Reasoning Benchmark for Language Models''.
 
@@ -6,7 +6,7 @@ The repository of the research project ``Revisiting a Pain in the Neck: A Semant
 
 ## Supported Tasks
 
-LexBench supports 19 tasks across four phrase types, including 6 sequential (multi-step) tasks.
+SemanticQA supports 19 tasks across four phrase types, including 6 sequential (multi-step) tasks.
 
 | Task                                   | Abbr. | Eval Metrics                                    | Phrase Type   |
 |----------------------------------------|-------|-------------------------------------------------|---------------|
