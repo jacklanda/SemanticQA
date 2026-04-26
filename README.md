@@ -1,5 +1,12 @@
 # SemanticQA
 
+<p align="center">
+  <a href="https://huggingface.co/datasets/jacklanda/SemanticQA">Data (Hugging Face)</a> •
+  <a href="https://github.com/jacklanda/SemanticQA">Evals (GitHub)</a> •
+  <a href="https://arxiv.org/abs/2604.16593">Paper (arXiv)</a> •
+  <a href="https://github.com/jacklanda/SemanticQA">Wiki (Gist.Science)</a>
+</p>
+
 The repository of the research project ``Revisiting a Pain in the Neck: A Semantic Reasoning Benchmark for Language Models''.
 
 ## Supported Tasks
@@ -29,14 +36,14 @@ Sequential (multi-step) tasks combine extraction with judgment or interpretation
 
 | Provider   | Models                                                                                      |
 |------------|---------------------------------------------------------------------------------------------|
-| OpenAI     | GPT-3.5-Turbo (0301/0613/1106), GPT-4 (0314/0613/Turbo/4o), GPT-5, O3, text-davinci-003   |
-| Anthropic  | Claude Instant, Claude 2 (2.0/2.1), Claude 3 (Sonnet/Opus), Claude Sonnet 4.5              |
-| Google     | Gemini Pro (1.5/latest), Gemini 2.5 Pro, Gemma 3 27B IT                                    |
+| OpenAI     | GPT-4 (0314/0613/Turbo/4o), GPT-5, o3   |
+| Anthropic  | Claude 3 (Sonnet/Opus), Claude Sonnet 4.5              |
+| Google     | Gemini 3.1 Pro, Gemma 3 27B IT                                    |
 | DeepSeek   | DeepSeek-Chat, DeepSeek-R1                                                                  |
 | Zhipu AI   | GLM-4.6                                                                                     |
 | Alibaba    | Qwen3 (8B/14B/32B/235B-A22B)                                                               |
 | Moonshot   | Kimi K2 Instruct                                                                            |
-| Open       | Llama 2 (7B/13B/70B), Vicuna (7B/13B), Mistral 7B, Mixtral 8x7B, ChatGLM (2/3-6B), Yi-6B  |
+| Others       | Llama 3 (8B), Mistral 7B, Mixtral 8x7B  |
 
 ## Project Structure
 
@@ -165,6 +172,15 @@ Fine-tuning scripts are available under `semantic_qa/training/`:
 - `semantic-phrases-interpretation/` — Fine-tune T5 for paraphrasing tasks
 
 ## Citation
+
+```bibtex
+@article{liu2026revisiting,
+    title={Revisiting a Pain in the Neck: A Semantic Reasoning Benchmark for Language Models},
+    author={Liu, Yang and Li, Hongming and Qin, Melissa Xiaohui and Liu, Qiankun and Huang, Chao},
+    journal={arXiv preprint arXiv:2604.16593},
+    year={2026}
+}
+```
 
 ```bibtex
 @article{liu2024revisiting,
