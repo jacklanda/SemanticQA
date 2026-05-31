@@ -1,10 +1,11 @@
 # SemanticQA
 
 <p align="center">
+  <a href="https://semanticqa.github.io">Project Page</a> •
+  <a href="https://arxiv.org/abs/2604.16593">Paper (arXiv)</a> •
   <a href="https://huggingface.co/datasets/jacklanda/SemanticQA">Data (Hugging Face)</a> •
   <a href="https://github.com/jacklanda/SemanticQA">Evals (GitHub)</a> •
-  <a href="https://arxiv.org/abs/2604.16593">Paper (arXiv)</a> •
-  <a href="https://github.com/jacklanda/SemanticQA">Wiki (Gist.Science)</a>
+  <a href="https://github.com/SemanticQA/SemanticQA.github.io/blob/main/assets/img/semanticqa.pdf">Slides</a>
 </p>
 
 The repository of the research project ``Revisiting a Pain in the Neck: A Semantic Reasoning Benchmark for Language Models''.
