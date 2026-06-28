@@ -176,11 +176,26 @@ Fine-tuning scripts are available under `semantic_qa/training/`:
 ## Citation
 
 ```bibtex
-@article{liu2026revisiting,
-    title={Revisiting a Pain in the Neck: A Semantic Reasoning Benchmark for Language Models},
-    author={Liu, Yang and Li, Hongming and Qin, Melissa Xiaohui and Liu, Qiankun and Huang, Chao},
-    journal={arXiv preprint arXiv:2604.16593},
-    year={2026}
+@inproceedings{liu-etal-2026-revisiting,
+    title = "Revisiting a Pain in the Neck: A Semantic Reasoning Benchmark for Language Models",
+    author = "Liu, Yang  and
+      Li, Hongming  and
+      Qin, Melissa Xiaohui  and
+      Huang, Chao  and
+      Liu, Qiankun",
+    editor = "Liakata, Maria  and
+      Moreira, Viviane P.  and
+      Zhang, Jiajun  and
+      Jurgens, David",
+    booktitle = "Proceedings of the 64th Annual Meeting of the {A}ssociation for {C}omputational {L}inguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2026",
+    address = "San Diego, California, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.acl-long.210/",
+    pages = "4595--4618",
+    ISBN = "979-8-89176-390-6",
+    abstract = "We present SemanticQA, an evaluation suite designed to assess language models (LMs) in semantic phrase processing tasks. The benchmark consolidates existing multiword expression (MwE) resources and reorganizes them into a unified testbed. It covers both general lexical phenomena, such as lexical collocations, and three fine-grained categories: idiomatic expressions, noun compounds, and verbal constructions. Through SemanticQA, we assess LMs of diverse architectures and scales in extraction, classification, and interpretation tasks, as well as sequential task compositions. We reveal substantial performance variation, particularly on tasks requiring semantic reasoning, highlighting differences in reasoning efficacy and semantic understanding of LMs, providing insights for pushing LMs with stronger comprehension on non-trivial semantic phrases. The evaluation harness and data of SemanticQA are available at https://github.com/jacklanda/SemanticQA."
 }
 ```
 
